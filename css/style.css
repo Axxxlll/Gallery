@@ -1,0 +1,18 @@
+/* css reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    margin: 20px;
+    color: #C49C2E;
+    padding: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.embrace{
+    justify-content: center !important;
+    padding: 50px !important;
+}
